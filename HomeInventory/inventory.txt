@@ -1,0 +1,54 @@
+5
+Book
+on study table
+2
+false
+300
+02/01/2022
+pragati book store
+python book
+G:\eclipse workspace directory\HomeInventory\images\book.jpg
+Chair
+drawing room
+2
+false
+500
+02/10/2022
+pakija store
+plastic cello chair
+G:\eclipse workspace directory\HomeInventory\images\chair.jpg
+Laptop
+on table 
+hp 15 di0000tx
+true
+40000
+09/17/2020
+amazon.com
+i3 8th gen
+G:\eclipse workspace directory\HomeInventory\images\laptop.jpg
+Maxo
+bedroom
+4
+false
+120
+08/23/2023
+medical
+mosquito killer
+G:\eclipse workspace directory\HomeInventory\images\Maxo.jpg
+Pen
+bed
+1
+false
+5
+02/02/2022
+kiran general store
+blue ball pen
+G:\eclipse workspace directory\HomeInventory\images\pen.jpg
+7
+bed
+
+on table 
+drawing room
+on study table
+bedroom
+ffxcx
