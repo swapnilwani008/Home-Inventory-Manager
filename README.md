@@ -9,3 +9,16 @@ While completing this project, new concepts and skills you should have gained in
 ➢ Basic object-oriented programming concepts and how to define your own classes and objects.
 
 ➢ How to add printing to a project, including use of the print dialog control
+
+
+Demo images : 
+
+<img src = "images/demo10.png" height = 350px width = 600px>
+
+<img src = "images/demo11.png" height = 350px width = 600px>
+
+<img src = "images/demo12.png" height = 350px width = 600px>
+
+<img src = "images/demo13.png" height = 350px width = 600px>
+
+<img src = "images/demo14.png" height = 350px width = 600px>
