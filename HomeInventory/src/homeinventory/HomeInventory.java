@@ -18,12 +18,12 @@ public class HomeInventory extends JFrame
 	private static final long serialVersionUID = 1L;
 	// Toolbar
 	JToolBar inventoryToolBar = new JToolBar();
-	JButton newButton = new JButton(new ImageIcon("G:\\eclipse workspace directory\\HomeInventory\\images\\new.png"));
-	JButton deleteButton = new JButton(new ImageIcon("G:\\eclipse workspace directory\\HomeInventory\\images\\delete.png"));
-	JButton saveButton = new JButton(new ImageIcon("G:\\eclipse workspace directory\\HomeInventory\\images\\save.png"));
-	JButton previousButton = new JButton(new ImageIcon("G:\\eclipse workspace directory\\HomeInventory\\images\\previous.png"));
-	JButton nextButton = new JButton(new ImageIcon("G:\\eclipse workspace directory\\HomeInventory\\images\\next.png"));
-	JButton printButton = new JButton(new ImageIcon("G:\\eclipse workspace directory\\HomeInventory\\images\\print.png"));
+	JButton newButton = new JButton(new ImageIcon("\\images\\new.png"));
+	JButton deleteButton = new JButton(new ImageIcon("\\images\\delete.png"));
+	JButton saveButton = new JButton(new ImageIcon("\\images\\save.png"));
+	JButton previousButton = new JButton(new ImageIcon("\\images\\previous.png"));
+	JButton nextButton = new JButton(new ImageIcon("\\images\\next.png"));
+	JButton printButton = new JButton(new ImageIcon("\\images\\print.png"));
 	JButton exitButton = new JButton();
 	
 	// Frame
